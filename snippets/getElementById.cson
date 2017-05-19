@@ -1,0 +1,4 @@
+".source.js":
+  'getElementById':
+    'prefix': 'geti'
+    'body': 'getElementById(${1:\'${2:id}\'})$3'

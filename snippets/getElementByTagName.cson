@@ -1,0 +1,4 @@
+".source.js":
+  'getElementsByTagName':
+    'prefix': 'gett'
+    'body': 'getElementsByTagName(${1:\'${2:tagName}\'})$3'

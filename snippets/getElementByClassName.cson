@@ -1,0 +1,4 @@
+".source.js":
+  'getElementsByClassName':
+    'prefix': 'get'
+    'body': 'getElementsByClassName(${1:\'${2:className}\'})$3'

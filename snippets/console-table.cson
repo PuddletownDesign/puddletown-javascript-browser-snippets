@@ -1,0 +1,6 @@
+".source.js":
+  "console.table":
+    prefix: "ct"
+    body: """
+console.table($0)
+    """

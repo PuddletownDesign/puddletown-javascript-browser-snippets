@@ -1,0 +1,4 @@
+".source.js":
+  'setInterval function':
+    'prefix': 'setInterval'
+    'body': 'setInterval(${2:function () {\n  $3\n\\}}, ${1:10});'

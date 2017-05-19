@@ -1,0 +1,4 @@
+".source.js":
+  'querySelector':
+    'prefix': 'qs'
+    'body': 'querySelector(${1:\'${2:query}\'})$3'
