@@ -2,10 +2,11 @@
     "name": "puddletown-javascript-browser-snippets",
     "main": "./lib/puddletown-javascript-browser-snippets",
     "version": "1.0.0",
-    "description": "A collection of Javascript standard format snippets from Puddletown Design. Browser and node snippets sold separately",
+    "description": "Javascript standard format browser snippets from Puddletown Design. Browser and node snippets sold separately",
     "keywords": [
         "snippets",
-        "javascript"
+        "javascript",
+        "browser"
     ],
     "repository": "https://github.com/PuddletownDesign/puddletown-javascript-browser-snippets",
     "license": "MIT",
