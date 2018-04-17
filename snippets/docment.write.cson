@@ -1,0 +1,4 @@
+".source.js":
+  'document.write':
+    'prefix': 'dw'
+    'body': 'document.write($0)'
