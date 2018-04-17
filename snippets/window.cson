@@ -1,0 +1,4 @@
+".source.js":
+  'window':
+    'prefix': 'widnow'
+    'body': 'window'

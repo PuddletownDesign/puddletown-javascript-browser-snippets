@@ -1,0 +1,14 @@
+".source.js":
+  'getElementsByName':
+    'prefix': 'xmlhttprequest'
+    'body': '''
+let $1 = new XMLHttpRequest()
+$1.open('GET', url, true)
+$1.onload = () => {
+  $0
+}
+$1.onerror = () => {
+
+}
+$1.send()
+    '''

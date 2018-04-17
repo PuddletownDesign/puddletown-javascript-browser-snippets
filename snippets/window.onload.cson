@@ -1,0 +1,4 @@
+".source.js":
+  'window':
+    'prefix': 'wo'
+    'body': 'window.onload'
