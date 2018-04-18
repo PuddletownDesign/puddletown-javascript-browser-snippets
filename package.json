@@ -1,7 +1,7 @@
 {
   "name": "puddletown-javascript-browser-snippets",
   "main": "./lib/puddletown-javascript-browser-snippets",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Javascript standard format browser snippets from Puddletown Design. Browser and node snippets sold separately",
   "keywords": [
     "snippets",
