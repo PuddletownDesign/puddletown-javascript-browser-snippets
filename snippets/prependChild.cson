@@ -1,0 +1,4 @@
+".source.js":
+  'prependChild':
+    'prefix': '.prependChild'
+    'body': '.prependChild($0)'

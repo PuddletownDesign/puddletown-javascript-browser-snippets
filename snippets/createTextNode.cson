@@ -1,0 +1,4 @@
+".source.js":
+  'createTextNode':
+    'prefix': 'createTextNode'
+    'body': 'document.createTextNode($1, $0)'

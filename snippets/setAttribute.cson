@@ -1,0 +1,4 @@
+".source.js":
+  'querySelector':
+    'prefix': 'qs'
+    'body': 'setAttribute($1, $0)'

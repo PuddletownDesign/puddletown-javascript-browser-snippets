@@ -1,0 +1,4 @@
+".source.js":
+  '.createElement':
+    'prefix': '.createElement'
+    'body': '.createElement($0)'

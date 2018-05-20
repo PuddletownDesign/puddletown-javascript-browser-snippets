@@ -1,0 +1,4 @@
+".source.js":
+  '.nextElementSibling':
+    'prefix': '.nextElementSibling'
+    'body': '.nextElementSibling)'
