@@ -1,4 +1,4 @@
 ".source.js":
   'querySelectorAll':
     'prefix': 'qsa'
-    'body': 'querySelectorAll(${1:\'${2:query}\'})$3'
+    'body': '${1:document}.querySelectorAll($0)'
