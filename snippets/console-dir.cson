@@ -1,0 +1,6 @@
+".source.js":
+  "console.dir":
+    prefix: "cd"
+    body: """
+console.dir($0)
+    """
